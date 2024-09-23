@@ -1,6 +1,6 @@
 {
-    "Link1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DFTSVT7P", "Title1": "Game 1", "Banner1": "https://github.com/ELMOUS01/Roblox-Traffic-1/blob/main/B1.jpg?raw=true", "Icon1": "true",
-    "Link2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DFTSVT7P", "Title2": "Game 2", "Banner2": "https://github.com/ELMOUS01/Roblox-Traffic-1/blob/main/B2.jpg?raw=true", "Icon2": "true",
-    "Link3": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DFTSVT7P", "Title3": "Game 3", "Banner3": "https://github.com/ELMOUS01/Roblox-Traffic-1/blob/main/B3.jpg?raw=true", "Icon3": "true",
-    "Link4": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DFTSVT7P", "Title4": "Game 4", "Banner4": "https://github.com/ELMOUS01/Roblox-Traffic-1/blob/main/B4.jpg?raw=true", "Icon4": "true"
+    "Link1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DFTSVT7P", "Title1": "Game 1", "Banner1": "https://github.com/ELMOUS01/Roblox-Traffic-1/blob/main/B1.jpg?raw=true", "Icon1": "https://github.com/ELMOUS01/Roblox-Traffic-1/blob/main/icon1.png?raw=true",
+    "Link2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DFTSVT7P", "Title2": "Game 2", "Banner2": "https://github.com/ELMOUS01/Roblox-Traffic-1/blob/main/B2.jpg?raw=true", "Icon2": "https://github.com/ELMOUS01/Roblox-Traffic-1/blob/main/icon2.png?raw=true",
+    "Link3": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DFTSVT7P", "Title3": "Game 3", "Banner3": "https://github.com/ELMOUS01/Roblox-Traffic-1/blob/main/B3.jpg?raw=true", "Icon3": "https://github.com/ELMOUS01/Roblox-Traffic-1/blob/main/icon3.png?raw=true",
+    "Link4": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DFTSVT7P", "Title4": "Game 4", "Banner4": "https://github.com/ELMOUS01/Roblox-Traffic-1/blob/main/B4.jpg?raw=true", "Icon4": "https://github.com/ELMOUS01/Roblox-Traffic-1/blob/main/icon4.png?raw=true"
 }
